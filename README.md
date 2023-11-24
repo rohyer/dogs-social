@@ -1,8 +1,34 @@
-# React + Vite
+# Dogs - Rede Social para Cachorros
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Link: https://dogs.guilhermerldev.com/
 
-Currently, two official plugins are available:
+O projeto é uma rede social para cachorros.
+Nele podemos postar fotos especificando o peso e idade de seu cachorro, onde elas são dispostas em um grid com um layout limpo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O site é uma Single Page Application desenvolvida com HTML, CSS, JavaScript, React, React Router DOM, Vite e a biblioteca de gráficos Victory.
+
+Funcionalidades que o site possui:
+
+- Cadastro de usuário
+- Login de usuário
+- Cadastro de postagem
+- Apagar postagem
+- Trocar senha caso tenha sido perdida
+
+## Para rodar o projeto
+
+- yarn install
+- yarn dev
+
+### Imagens do projeto
+
+![Página de login](./src/Assets/login-page.png)
+![Página de cadastro de usuário](./src/Assets/register-page.png)
+![Página de conta do usuário](./src/Assets/account-page.png)
+![Página home](./src/Assets/home-page.png)
+![Página de cadastro de postagem](./src/Assets/register-dog-page.png)
+![Página do modal da postagem](./src/Assets/post-modal-page.png)
+![Página da postagem](./src/Assets/post-page.png)
+![Página de estatísticas](./src/Assets/stats-page.png)
+![Página de perdi minha senha](./src/Assets/lost-password-page.png)
+![Página de resetar senha](./src/Assets/reset-password-page.png)
