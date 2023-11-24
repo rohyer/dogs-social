@@ -27,7 +27,7 @@ Funcionalidades que o site possui:
 ![Página de conta do usuário](./src/Assets/account-page.png)
 ![Página home](./src/Assets/home-page.png)
 ![Página de cadastro de postagem](./src/Assets/register-dog-page.png)
-![Página do modal da postagem](./src/Assets/post-modal-page.png)
+![Página do modal da postagem](./src/Assets/post-modal.png)
 ![Página da postagem](./src/Assets/post-page.png)
 ![Página de estatísticas](./src/Assets/stats-page.png)
 ![Página de perdi minha senha](./src/Assets/lost-password-page.png)
